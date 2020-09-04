@@ -1,4 +1,4 @@
-# Readme #
+# Artist Recommendation System #
 
 Our objective is to make an artist recommendation system, based on the data available in [Kaggle's Spotify Dataset](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data_by_artist.csv).
 
